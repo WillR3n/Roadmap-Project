@@ -1,1 +1,1 @@
-https://github.com/WillR3n/Roadmap-Project
+https://roadmap.sh/projects/single-page-cv
